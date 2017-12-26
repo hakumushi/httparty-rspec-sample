@@ -1,4 +1,4 @@
-# httparty-rspec-sample
+# HTTParty RSpec Sample
 Starting with HTTParty and RSpec.
 
 ## Requirements
@@ -10,3 +10,5 @@ Starting with HTTParty and RSpec.
 2. Install the libs (bundle install)
 3. Access the specs folder on terminal
 4. Execute rspec users_spec.rb
+
+PS. I will send a json-server version of my API later.
